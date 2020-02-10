@@ -56,12 +56,12 @@ from folium.plugins import HeatMap, MarkerCluster
 
 * Universidades: posibilidad de poder captar talentos nuevos para la empresa, asistir a charlas (entre otras de diseño) y para los hijos de los empleados.
 
-*Lugar de Ocio (Parque de Atracciones): para que los empleados puedas disfrutar de su tiempo libre, tanto con familia, amigos o los propios colegas del trabajo. Este punto puede ayudar a incrementar el compañerismo y la atmósfera de trabajo en equipo.
+* Lugar de Ocio (Parque de Atracciones): para que los empleados puedas disfrutar de su tiempo libre, tanto con familia, amigos o los propios colegas del trabajo. Este punto puede ayudar a incrementar el compañerismo y la atmósfera de trabajo en equipo.
 
 
 ## Built With
 
-*[Folium](https://python-visualization.github.io/folium/) - Web utilizada para presentar los gráficos.
+* [Folium](https://python-visualization.github.io/folium/) - Web utilizada para presentar los gráficos.
 * [Google API](https://developers.google.com/apis-explorer) - Web utilizada para extraer sitios y coordenadas desde Google
 * [Geocode](https://geocode.xyz) - Web utilizada para extraer las coordenadas de las ciudades.
 
