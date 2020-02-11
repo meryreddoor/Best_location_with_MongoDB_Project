@@ -26,10 +26,6 @@ from descartes import PolygonPatch
 import matplotlib.pyplot as plt
 %matplotlib inline
 
-from cartoframes.viz import Map, Layer
-from cartoframes.viz.helpers import size_continuous_layer
-from cartoframes.viz.widgets import histogram_widget
-
 import folium
 from folium import plugins
 from folium import Choropleth, Circle, Marker
@@ -57,6 +53,14 @@ from folium.plugins import HeatMap, MarkerCluster
 * Universidades: posibilidad de poder captar talentos nuevos para la empresa, asistir a charlas (entre otras de diseño) y para los hijos de los empleados.
 
 * Lugar de Ocio (Parque de Atracciones): para que los empleados puedas disfrutar de su tiempo libre, tanto con familia, amigos o los propios colegas del trabajo. Este punto puede ayudar a incrementar el compañerismo y la atmósfera de trabajo en equipo.
+
+* Colegios para los niños de los trabajadores.
+
+* Clubs de Noche
+
+* Parque de atracciones para toda la familia
+
+* Bares
 
 
 ## Built With
