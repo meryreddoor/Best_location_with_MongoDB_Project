@@ -60,7 +60,7 @@ from folium.plugins import HeatMap, MarkerCluster
 
 * Parque de atracciones para toda la familia
 
-* Bares 
+* Bares
 
 
 ## Built With
