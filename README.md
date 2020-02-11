@@ -68,4 +68,5 @@ from folium.plugins import HeatMap, MarkerCluster
 * [Folium](https://python-visualization.github.io/folium/) - Web utilizada para presentar los gráficos.
 * [Google API](https://developers.google.com/apis-explorer) - Web utilizada para extraer sitios y coordenadas desde Google
 * [Geocode](https://geocode.xyz) - Web utilizada para extraer las coordenadas de las ciudades.
+* [Crunchbase](https://www.crunchbase.com) - Web utilizada para analizar las empresas de videjuegos.
 
