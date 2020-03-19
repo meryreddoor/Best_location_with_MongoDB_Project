@@ -36,7 +36,7 @@ from folium.plugins import HeatMap, MarkerCluster
 
 1. Se ha importado el archivo 'companies' desde Mongo DB para poder acceder a las coordenadas y la información de las distintas empresas de videojuegos.
 
-2. Después de dicha importación se ha procedido a limpiar el dataset - Eliminando duplicados, elementos 'Nan' y columnas innecesarias como la de 'offices'.
+2. Después de dicha importación, se ha procedido a limpiar el dataset - Eliminando duplicados, elementos 'Nan' y columnas innecesarias como la de 'offices'.
 
 3. Antes de eliminar la columna 'offices' se procedió a 'expandir' la información que ésta contenía.
 
@@ -61,6 +61,10 @@ from folium.plugins import HeatMap, MarkerCluster
 * Parque de atracciones para toda la familia
 
 * Bares
+
+## Mapa
+
+![alt text](https://github.com/meryreddoor/mongodb/blob/master/img/Map.png)
 
 
 ## Built With
