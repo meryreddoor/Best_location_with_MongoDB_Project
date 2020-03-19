@@ -50,17 +50,17 @@ from folium.plugins import HeatMap, MarkerCluster
 
 8. Es por ello que se procedió a analizar más en profundidad dicha ciudad y se extrajeron más puntos clave para la empresa, como por ejemplo:
 
-* Universidades: posibilidad de poder captar talentos nuevos para la empresa, asistir a charlas (entre otras de diseño) y para los hijos de los empleados.
+    * Universidades: posibilidad de poder captar talentos nuevos para la empresa, asistir a charlas (entre otras de diseño) y para los hijos de los empleados.
 
-* Lugar de Ocio (Parque de Atracciones): para que los empleados puedas disfrutar de su tiempo libre, tanto con familia, amigos o los propios colegas del trabajo. Este punto puede ayudar a incrementar el compañerismo y la atmósfera de trabajo en equipo.
+    * Lugar de Ocio (Parque de Atracciones): para que los empleados puedas disfrutar de su tiempo libre, tanto con familia, amigos o los propios colegas del trabajo. Este punto puede ayudar a incrementar el compañerismo y la atmósfera de trabajo en equipo.
 
-* Colegios para los niños de los trabajadores.
+    * Colegios para los niños de los trabajadores.
 
-* Clubs de Noche
+    * Clubs de Noche
 
-* Parque de atracciones para toda la familia
+    * Parque de atracciones para toda la familia
 
-* Bares
+    * Bares
 
 ## Mapa
 
