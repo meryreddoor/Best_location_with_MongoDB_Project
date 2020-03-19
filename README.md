@@ -1,4 +1,4 @@
-# Proyecto Mongo DB
+# "Best location" with Mongo DB Project
 
 El propósito de este proyecto es determinar el mejor lugar para localizar una compañía de videjuegos.
 
